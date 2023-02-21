@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "Name": "META Front-end Professional Certification",
+    "VerficationLink": "https://coursera.org/share/0a950a3994e4aa550d83de3a782688bc",
+    "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META%20Front-end%20Professional%20Certificate%20Coursera/Meta%20Front-End%20Developer%20Specilization.png",
+    "category": "specialization",
+    "platform": "coursera"
+  },
+  {
+    "id": "2",
+    "Name": "META Back-end Professional Certification",
+    "VerficationLink": "https://coursera.org/share/f0c890d8a5227e31c6542d93b11cdc7b",
+    "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/Meta Back-End Developer Specilization.png",
+    "category": "specialization",
+    "platform": "coursera"
+  }
+]

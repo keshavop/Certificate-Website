@@ -1,0 +1,298 @@
+[
+    {
+        "id": "1",
+        "Name": "META Front-end Professional Certification",
+        "VerficationLink": "https://coursera.org/share/0a950a3994e4aa550d83de3a782688bc",
+        "image": "https://bitbucket.org/keshavop/certificate/raw/aab47e68441b220818a85f614c9f65049da371c3/certificate-data/META%20Back-end%20Professional%20Certificate%20Coursera/META%20Back-End%20Developer%20Capstone.png",
+        "category": "specialization",
+        "platform": "coursera"
+    },
+    {
+        "id": "2",
+        "Name": "Introduction to Front-End Development",
+        "VerficationLink": "https://coursera.org/share/da47779f62cfc68644306de9fd0dfb22",
+        "image": "",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "3",
+        "Name": "Programming with JavaScript",
+        "VerficationLink": "https://coursera.org/share/2d21fa57a9e462ab4ffd59bc2a6b1e9d",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META Programming with JavaScript.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "4",
+        "Name": "Version Control",
+        "VerficationLink": "https://coursera.org/share/95fea612b7054859bd8530d5cee54e56",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META Version Control.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "5",
+        "Name": "HTML and CSS in depth",
+        "VerficationLink": "https://coursera.org/share/554e36b11dd05a1dfcf113cb30894f40",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META HTML and CSS in depth.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "6",
+        "Name": "React Basics",
+        "VerficationLink": "https://coursera.org/share/5192b38b320217a4e70a26333f9691df",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META React Basics.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "7",
+        "Name": "Advanced React",
+        "VerficationLink": "https://coursera.org/share/6db620d3c6210805bc2aeaa100256f74",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META Advanced React.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "8",
+        "Name": "Principles of UX/UI Design",
+        "VerficationLink": "https://coursera.org/share/6e194eb8bc9d00d2a71c9ccbb8c1edb3",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META Principles of UX UI Design.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "9",
+        "Name": "Front-End Developer Capstone",
+        "VerficationLink": "https://coursera.org/share/c7daedc2f4d534252c04e4572ecd64ae",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META Front-End Developer Capstone.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "10",
+        "Name": "Coding Interview Preparation",
+        "VerficationLink": "https://coursera.org/share/4a859d2abe15980bbbaaa5106621d122",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META Coding Interview Preparation.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "11",
+        "Name": "META Back-end Professional Certification",
+        "VerficationLink": "https://coursera.org/share/f0c890d8a5227e31c6542d93b11cdc7b",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/Meta Back-End Developer Specilization.png",
+        "category": "specialization",
+        "platform": "coursera"
+    },
+    {
+        "id": "12",
+        "Name": "Introduction to Back-End Development",
+        "VerficationLink": "https://coursera.org/share/2dd652b2b061c05473118398dac703a1",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Introduction to Back-End Development.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "13",
+        "Name": "Programming in Python",
+        "VerficationLink": "https://coursera.org/share/5d24f95458dc96bff1911035463e1d2a",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Programming in Python.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "14",
+        "Name": "Version Control",
+        "VerficationLink": "https://coursera.org/share/95fea612b7054859bd8530d5cee54e56",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Version Control.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "15",
+        "Name": "Introduction to Databases for Back-End Development",
+        "VerficationLink": "https://coursera.org/share/5ffe66d5686ee98fec2f1fec83064069",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Introduction to Databases for Back-End Development.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "16",
+        "Name": "Django Web Framework",
+        "VerficationLink": "https://coursera.org/share/27843831629b825279f6538899f6ba4e",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Django Web Framework.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "17",
+        "Name": "APIs",
+        "VerficationLink": "https://coursera.org/share/6e802e776dca31f93bd330d685a2e4ce",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META APIs.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "18",
+        "Name": "The Full Stack",
+        "VerficationLink": "https://coursera.org/share/3ccc922c246e32e94b619afe82593391",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META The Full Stack.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "19",
+        "Name": "Back-End Developer Capstone",
+        "VerficationLink": "https://coursera.org/share/57baffb4468bfe5dc9cfdeb966d3547e",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Back-End Developer Capstone.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "20",
+        "Name": "Coding Interview Preparation",
+        "VerficationLink": "https://coursera.org/share/4a859d2abe15980bbbaaa5106621d122",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Coding Interview Preparation.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "21",
+        "Name": "Responsive Website Basics: Code with HTML, CSS, and JavaScript by University of London",
+        "VerficationLink": "https://coursera.org/share/96ca45ce071f58aa4d48d638a4de519a",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Coursera/C%2B%2B For C Programmers%2C Part A by University of California Santa Cruz.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "22",
+        "Name": "Version Control with Git by Atlassian",
+        "VerficationLink": "https://coursera.org/share/d23499fbc992792475174c865403c91d",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Coursera/Version Control with Git by Atlassian.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "23",
+        "Name": "C++ For C Programmers, Part A by University of California Santa Cruz",
+        "VerficationLink": "https://coursera.org/share/49b1764dcb9c32ea6726e2619d0106bd",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Coursera/C%2B%2B For C Programmers%2C Part A by University of California Santa Cruz.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "24",
+        "Name": "Programming Foundations with JavaScript, HTML and CSS by Duke University",
+        "VerficationLink": "https://coursera.org/share/47b0a54696b49cee21075bdbc6bf12f3",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Coursera/Programming Foundations with JavaScript%2C HTML and CSS by Duke University.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "25",
+        "Name": "Programming for Everybody (Getting Started with Python) by the University of Michigan",
+        "VerficationLink": "https://coursera.org/share/dc2bd2c89ab576ada296eeca947b43b4",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Coursera/Programming for Everybody (Getting Started with Python) by the University of Michigan.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "26",
+        "Name": "The Science of Well-Being by Yale University",
+        "VerficationLink": "https://coursera.org/share/58f97ac0e7381a2d39ccc942c65d753d",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Coursera/The Science of Well-Being by Yale University.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "27",
+        "Name": "Front-End Web UI Frameworks and Tools: Bootstrap 4 The Hong Kong University of Science and Technology",
+        "VerficationLink": "https://coursera.org/share/1019156a842cf10780291440a2ceb3fb",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Coursera/Front-End Web UI Frameworks and Tools Bootstrap 4.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "28",
+        "Name": "Server-side Development with NodeJS, Express and MongoDB The Hong Kong University of Science and Technology",
+        "VerficationLink": "https://coursera.org/share/3afd54fd7c7225c46701549558a594e8",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Coursera/Server-side Development with NodeJS%2C Express and MongoDB.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "29",
+        "Name": "Programming Fundamentals in Kotlin Meta",
+        "VerficationLink": "https://coursera.org/share/5e23ea7a74fc182b158876798704d75f",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Coursera/Programming%20Fundamentals%20in%20Kotlin%20META.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "30",
+        "Name": "Introduction to Databases Meta",
+        "VerficationLink": "https://coursera.org/share/0eb845181389d22d9488fce2d8cfa103",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Coursera/META Introduction to Databases.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "31",
+        "Name": "C++ Programming Essentials for Beginners Udemy Coding Minutes",
+        "VerficationLink": "https://www.udemy.com/certificate/UC-76373bb5-24b6-45ab-931d-ae65cdf624d2/",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Udemy/C%2B%2B Programming Essentials for Beginners Udemy Coding Minutes.png",
+        "category": "",
+        "platform": "udemy"
+    },
+    {
+        "id": "32",
+        "Name": "Python Programming Master Course (2022) Udemy Coding Minute",
+        "VerficationLink": "https://www.udemy.com/certificate/UC-878f4cc6-b4e5-441a-9ffa-f104c61d4339/",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Udemy/Python Programming Master Course (2022) Udemy Coding Minute.png",
+        "category": "",
+        "platform": "udemy"
+    },
+    {
+        "id": "33",
+        "Name": "Yoga At Home - Flexibility, Fitness, Strength & Weight Loss Udemy",
+        "VerficationLink": "https://www.udemy.com/certificate/UC-69887ba9-a5fb-4403-8c7b-b29d2dfcbf20/",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Udemy/Yoga At Home - Flexibility%2C Fitness%2C Strength %26 Weight Loss Udemy.png",
+        "category": "",
+        "platform": "udemy"
+    },
+    {
+        "id": "34",
+        "Name": "Data Structures & Algorithms Essentials using C++ (2022) Udemy by Coding Minutes",
+        "VerficationLink": "https://www.udemy.com/certificate/UC-5ce1945f-3ec7-4e78-a42d-9060b41a5ced/",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Udemy/Data Structures %26 Algorithms Essentials using C%2B%2B (2022) Udemy by Coding Minutes.png",
+        "category": "",
+        "platform": "udemy"
+    },
+    {
+        "id": "35",
+        "Name": "50 HTML CSS JavaScript projects - HTML5, CSS3, vanilla JS Udemy",
+        "VerficationLink": "https://www.udemy.com/certificate/UC-10e226e4-1c77-41db-8e10-27f7c13859dd/",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Udemy/50 HTML CSS JavaScript projects - HTML5%2C CSS3%2C vanilla JS Udemy.png",
+        "category": "",
+        "platform": "udemy"
+    },
+    {
+        "id": "36",
+        "Name": "GFG Self Placed DSA",
+        "VerficationLink": "https://github.com/keshavop/Certificates/blob/main/Misc/GFG Self Placed Course 2022.pdf",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/Misc/GFG Self Placed Course 2022.png",
+        "category": "",
+        "platform": ""
+    },
+    {
+        "id": "37",
+        "Name": "Google Cloud Ready Facilitator Program",
+        "VerficationLink": "https://github.com/keshavop/Certificates/blob/main/Misc/Google Cloud-Ready Certificate.pdf",
+        "image": "https://github.com/keshavop/Certificates/blob/main/Misc/Google Cloud-Ready Certificate.png",
+        "category": "",
+        "platform": ""
+    }
+]

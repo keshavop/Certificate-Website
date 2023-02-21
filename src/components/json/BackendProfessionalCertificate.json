@@ -1,0 +1,82 @@
+[
+    {
+        "id": "11",
+        "Name": "META Back-end Professional Certification",
+        "VerficationLink": "https://coursera.org/share/f0c890d8a5227e31c6542d93b11cdc7b",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/Meta Back-End Developer Specilization.png",
+        "category": "specialization",
+        "platform": "coursera"
+    },
+    {
+        "id": "12",
+        "Name": "Introduction to Back-End Development",
+        "VerficationLink": "https://coursera.org/share/2dd652b2b061c05473118398dac703a1",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Introduction to Back-End Development.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "13",
+        "Name": "Programming in Python",
+        "VerficationLink": "https://coursera.org/share/5d24f95458dc96bff1911035463e1d2a",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Programming in Python.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "14",
+        "Name": "Version Control",
+        "VerficationLink": "https://coursera.org/share/95fea612b7054859bd8530d5cee54e56",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Version Control.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "15",
+        "Name": "Introduction to Databases for Back-End Development",
+        "VerficationLink": "https://coursera.org/share/5ffe66d5686ee98fec2f1fec83064069",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Introduction to Databases for Back-End Development.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "16",
+        "Name": "Django Web Framework",
+        "VerficationLink": "https://coursera.org/share/27843831629b825279f6538899f6ba4e",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Django Web Framework.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "17",
+        "Name": "APIs",
+        "VerficationLink": "https://coursera.org/share/6e802e776dca31f93bd330d685a2e4ce",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META APIs.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "18",
+        "Name": "The Full Stack",
+        "VerficationLink": "https://coursera.org/share/3ccc922c246e32e94b619afe82593391",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META The Full Stack.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "19",
+        "Name": "Back-End Developer Capstone",
+        "VerficationLink": "https://coursera.org/share/57baffb4468bfe5dc9cfdeb966d3547e",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Back-End Developer Capstone.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "20",
+        "Name": "Coding Interview Preparation",
+        "VerficationLink": "https://coursera.org/share/4a859d2abe15980bbbaaa5106621d122",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Back-end Professional Certificate Coursera/META Coding Interview Preparation.png",
+        "category": "",
+        "platform": "coursera"
+    }
+]

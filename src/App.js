@@ -1,24 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar';
+import SpecilizationCertificate from './components/SpecilizationCertificate'
+import FrontendCertificate from './components/FrontendProfessionalCertificate';
+import BackendCertificate from './components/BackendProfessionalCertificate';
+import Coursera from './components/Coursera';
+import Udemy from './components/Udemy';
+import Misc from './components/Misc';
+import Footer from './components/Footer';
+import TableData from './components/TableData';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    {/* <TableData></TableData> */}
+      <Navbar></Navbar>
+      <SpecilizationCertificate></SpecilizationCertificate>
+      <FrontendCertificate></FrontendCertificate>
+      <BackendCertificate></BackendCertificate>
+      <Coursera></Coursera>
+      <Udemy></Udemy>
+      <Misc></Misc>
+      <Footer></Footer>
+    </>
   );
 }
 

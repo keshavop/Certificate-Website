@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "Name": "META Front-end Professional Certification",
+        "VerficationLink": "https://coursera.org/share/0a950a3994e4aa550d83de3a782688bc",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META%20Front-end%20Professional%20Certificate%20Coursera/Meta%20Front-End%20Developer%20Specilization.png",
+        "category": "specialization",
+        "platform": "coursera"
+    },
+    {
+        "id": "2",
+        "Name": "Introduction to Front-End Development",
+        "VerficationLink": "https://coursera.org/share/da47779f62cfc68644306de9fd0dfb22",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META%20Front-end%20Professional%20Certificate%20Coursera/META%20Introduction%20to%20Front-End%20Development.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "3",
+        "Name": "Programming with JavaScript",
+        "VerficationLink": "https://coursera.org/share/2d21fa57a9e462ab4ffd59bc2a6b1e9d",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META Programming with JavaScript.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "4",
+        "Name": "Version Control",
+        "VerficationLink": "https://coursera.org/share/95fea612b7054859bd8530d5cee54e56",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META Version Control.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "5",
+        "Name": "HTML and CSS in depth",
+        "VerficationLink": "https://coursera.org/share/554e36b11dd05a1dfcf113cb30894f40",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META HTML and CSS in depth.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "6",
+        "Name": "React Basics",
+        "VerficationLink": "https://coursera.org/share/5192b38b320217a4e70a26333f9691df",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META React Basics.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "7",
+        "Name": "Advanced React",
+        "VerficationLink": "https://coursera.org/share/6db620d3c6210805bc2aeaa100256f74",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META Advanced React.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "8",
+        "Name": "Principles of UX/UI Design",
+        "VerficationLink": "https://coursera.org/share/6e194eb8bc9d00d2a71c9ccbb8c1edb3",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META Principles of UX UI Design.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "9",
+        "Name": "Front-End Developer Capstone",
+        "VerficationLink": "https://coursera.org/share/c7daedc2f4d534252c04e4572ecd64ae",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META Front-End Developer Capstone.png",
+        "category": "",
+        "platform": "coursera"
+    },
+    {
+        "id": "10",
+        "Name": "Coding Interview Preparation",
+        "VerficationLink": "https://coursera.org/share/4a859d2abe15980bbbaaa5106621d122",
+        "image": "https://raw.githubusercontent.com/keshavop/Certificates/main/META Front-end Professional Certificate Coursera/META Coding Interview Preparation.png",
+        "category": "",
+        "platform": "coursera"
+    }
+]
