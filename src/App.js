@@ -13,6 +13,7 @@ function App() {
   return (
     <>
     {/* <TableData></TableData> */}
+
       <Navbar></Navbar>
       <SpecilizationCertificate></SpecilizationCertificate>
       <FrontendCertificate></FrontendCertificate>
