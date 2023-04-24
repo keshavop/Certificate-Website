@@ -7,13 +7,11 @@ import Coursera from './components/Coursera';
 import Udemy from './components/Udemy';
 import Misc from './components/Misc';
 import Footer from './components/Footer';
-import TableData from './components/TableData';
+// import TableData from './components/TableData';
 
 function App() {
   return (
     <>
-    {/* <TableData></TableData> */}
-
       <Navbar></Navbar>
       <SpecilizationCertificate></SpecilizationCertificate>
       <FrontendCertificate></FrontendCertificate>
