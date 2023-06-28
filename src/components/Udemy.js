@@ -11,25 +11,25 @@ const Udemy = () => {
                         return (
                             <div className='flex flex-wrap order-3 m-9'>
                                 <div className="w-96 bg-base-100 shadow-xl" key={Udemy.id
-            }>
+                                }>
                                     <img src={Udemy.image
-            } alt={Udemy.name
-            } />
+                                    } alt={Udemy.name
+                                    } loading="lazy" />
                                     <div className="">
                                         <h2 className="text-lg p-4">{Udemy.Name
-            }</h2>
+                                        }</h2>
                                         <div className="flex justify-center">
                                             <a href={Udemy.image
-            } target="blank"><button className="btn btn-primary mr-2">View Certificate</button></a>
+                                            } target="blank"><button className="btn btn-primary mr-2">View Certificate</button></a>
                                             <a href={Udemy.VerficationLink
-            } target="blank"><button className="btn btn-primary mr-2">Verify at Coursera</button></a>
+                                            } target="blank"><button className="btn btn-primary mr-2">Verify at Coursera</button></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         )
-        })
-    }
+                    })
+                }
             </div>
         </section>
     )

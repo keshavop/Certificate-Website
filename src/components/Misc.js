@@ -14,7 +14,7 @@ const Misc = () => {
                                 }>
                                     <img src={Misc.image
                                     } alt={Misc.name
-                                    } />
+                                    } loading="lazy" />
                                     <div className="">
                                         <h2 className="text-lg p-4">{Misc.Name
                                         }</h2>

@@ -13,7 +13,7 @@ const Coursera = () => {
                         return (
                             <div className="flex flex-wrap order-3 m-9">
                                 <div className="w-96 bg-base-100 shadow-xl" key={Coursera.id}>
-                                    <img src={Coursera.image} alt={Coursera.name} />
+                                    <img src={Coursera.image} alt={Coursera.name} loading="lazy"/>
                                     <div className="">
                                         <h2 className="text-lg p-4">{Coursera.Name}</h2>
                                         <div className="flex justify-center">

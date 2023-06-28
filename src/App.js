@@ -7,7 +7,6 @@ import Coursera from './components/Coursera';
 import Udemy from './components/Udemy';
 import Misc from './components/Misc';
 import Footer from './components/Footer';
-// import TableData from './components/TableData';
 
 function App() {
   return (
