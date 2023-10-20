@@ -27,7 +27,7 @@ function Navbar() {
                             </ul>
                         </li> */}
                         <li>
-                            <Link to="https://www.notion.so/keshavop/List-of-certificate-s-97c96ad0a7c3459ea347bdb987ed3e33?pvs=4" smooth>All Certificates Data</Link>
+                            <Link to="https://github.com/keshavop/Certificates" smooth>All Certificates Data</Link>
                         </li>
                         <li>
                             <Link to="#frontend" smooth>META Front-end Professional Certification</Link>
